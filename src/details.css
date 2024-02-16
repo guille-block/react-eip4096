@@ -1,0 +1,11 @@
+.details-container, .detail-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.detail-item {
+    padding-left: 1.3em;
+    border-left: solid 3px #F7AD1B;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
